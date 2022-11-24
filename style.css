@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+}
+
+h3{
+    color: #f6aa4e
+}
+
+h4{
+    color: rgb(230, 230, 230)
+}
+
+.main{
+    margin: auto;
+    width: 50%;
+}
+
+.box{
+    background-color: rgb(42, 42, 42);
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
